@@ -1,0 +1,25 @@
+const imageMap = {
+  "rosa_1": require('./assets/rosa1.jpg'),
+  "rosa_2": require('./assets/rosa2.png'),
+  "rosa_3": require('./assets/rosa3.jpg'),
+  "canto_1": require('./assets/canto1.jpg'),
+  "canto_2": require('./assets/canto2.jpg'),
+  "canto_3": require('./assets/canto3.jpg'),
+  "canguiri_1": require('./assets/canguiri1.jpeg'),
+  "canguiri_2": require('./assets/canguiri2.jpeg'),
+  "canguiri_3": require('./assets/canguiri3.jpeg'),
+  "mirante_1": require('./assets/mirante1.jpeg'),
+  "mirante_2": require('./assets/mirante2.jpg'),
+  "mirante_3": require('./assets/mirante3.jpg'),
+  "baleia_1": require('./assets/baleia1.jpeg'),
+  "baleia_2": require('./assets/baleia2.jpeg'),
+  "baleia_3": require('./assets/baleia3.jpeg'),
+  "caixa_1": require('./assets/caixa1.jpg'),
+  "caixa_2": require('./assets/caixa2.jpg'),
+  "caixa_3": require('./assets/caixa3.jpg'),
+  "sky_1": require('./assets/sky1.jpeg'),
+  "sky_2": require('./assets/sky2.jpeg'),
+  "sky_3": require('./assets/sky3.jpeg'),
+};
+
+export default imageMap;

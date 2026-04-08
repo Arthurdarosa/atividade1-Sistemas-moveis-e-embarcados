@@ -1,0 +1,131 @@
+[
+  {
+    "id": "1",
+    "nome": "Praia Do Rosa",
+    "bairro": "Ibiraquera",
+    "maps": "https://www.google.com/maps/place/Praia+do+Rosa/@-28.1110282,-48.6329054,13.13z/data=!4m6!3m5!1s0x9526cc1fa0854bc3:0x845bb5b1c82513d9!8m2!3d-28.1300744!4d-48.6421002!16s%2Fg%2F11bxg0wxg2?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+    "descricao": "A Praia do Rosa é única. Um Pedaço do paraíso entre a Serra do Mar e o Oceano Atlântico, o Rosa é um local rústico, de natureza vívida e dono de um estilo verdadeiramente singular.",
+    "funcionamento": {
+      "seg": "24H",
+      "ter": "24H",
+      "qua": "24H",
+      "qui": "24H",
+      "sex": "24H",
+      "sab": "24H",
+      "dom": "24H"
+    },
+    "imagens": ["rosa_1", "rosa_2", "rosa_3"],
+    "fone": "48920008692",
+    "video": "https://www.youtube.com/embed/KzPXvgYnmE0"
+  },{
+    "id": "2",
+    "nome": "Praia Da Vila",
+    "bairro": "Centro",
+    "maps": "https://www.google.com/maps/place/Praia+Da+Vila,+Imbituba+SC/@-28.2451171,-48.6515369,14.88z/data=!4m6!3m5!1s0x9526b5eea0e92e2b:0xca4d331498b80d8b!8m2!3d-28.2396757!4d-48.6561804!16s%2Fg%2F11cm0cx7kg?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+    "descricao": "A Praia Da Vila fica localizada no centro da cidade de Imbituba, a poucos metros do centro da cidade, ja foi sede de etapas da WSL, alem de ter a trilha do farol.",
+    "funcionamento": {
+      "seg": "24H",
+      "ter": "24H",
+      "qua": "24H",
+      "qui": "24H",
+      "sex": "24H",
+      "sab": "24H",
+      "dom": "24H"
+    },
+    "imagens": ["canto_1", "canto_2", "canto_3"],
+    "fone": "48920008692",
+    "video": "https://www.youtube.com/embed/JnTkH97uAzw"
+  },{
+    "id": "3",
+    "nome": "Museu da Baleia",
+    "bairro": "Itapiruba",
+    "maps": "https://www.google.com/maps/place/Museu+da+Baleia+de+Imbituba/@-28.2273417,-48.665162,1648m/data=!3m1!1e3!4m6!3m5!1s0x9526ca76b95b9079:0x79fc620d2421fe64!8m2!3d-28.226778!4d-48.6650706!16s%2Fg%2F11bx1j4fdf?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+    "descricao": "O Museu da Baleia de Imbituba, situado na praia do Porto e instalado no prédio histórico denominado “Barracão Manoel Rosa” em homenagem a um dos últimos baleeiros de Imbituba e promotor ativo da educação pública sobre a história da caça e a conservação das baleias francas, foi inaugurado em setembro de 2003 e é o resultado de uma parceria entre o Projeto Baleia Franca, a Prefeitura Municipal de Imbituba e muitos empresários da região que somaram-se à PETROBRAS para viabilizar a reconstrução histórica do prédio e a instalação das exposições.",
+    "funcionamento": {
+      "seg": "Fechado",
+      "ter": "9h - 18h",
+      "qua": "9h - 18h",
+      "qui": "9h - 18h",
+      "sex": "9h - 18h",
+      "sab": "9h - 18h",
+      "dom": "Fechado"
+    },
+    "imagens": ["baleia_1", "baleia_2", "baleia_3"],
+    "fone": "48920008692",
+    "video": "https://www.youtube.com/embed/JnTkH97uAzw"
+  },{
+    "id": "4",
+    "nome": "SkyZimba",
+    "bairro": "Arroio",
+    "maps": "https://www.google.com/maps?hl=pt-BR&gl=br&um=1&ie=UTF-8&fb=1&sa=X&ftid=0x9526cb74f0c0d0a1:0x807bafa218d78be6",
+    "descricao": "Clube de esportes radicais, com foco em paraquedismo.",
+    "funcionamento": {
+      "seg": "Fechado",
+      "ter": "10h - 20h",
+      "qua": "10h - 20h",
+      "qui": "10h - 20h",
+      "sex": "10h - 20h",
+      "sab": "10h - 20h",
+      "dom": "10h - 20h"
+    },
+    "imagens": ["sky_1", "sky_2", "sky_3"],
+    "fone": "48920008692",
+    "video": "https://www.youtube.com/embed/TOnA8Gb6XSg"
+  },{
+    "id": "5",
+    "nome": "Mirante da Praia do Porto",
+    "bairro": "Vila Nova Alvorada",
+    "maps": "https://www.google.com/maps?hl=pt-BR&gl=br&um=1&ie=UTF-8&fb=1&sa=X&ftid=0x9526ca68a69f11e3:0xde5ef6c1e0ccbeb0",
+    "descricao": "Mirante com vista para o porto de Imbituba",
+    "funcionamento": {
+      "seg": "Fechado",
+      "ter": "10h - 22h",
+      "qua": "10h - 22h",
+      "qui": "10h - 22h",
+      "sex": "10h - 22h",
+      "sab": "10h - 22h",
+      "dom": "10h - 22h"
+    },
+    "imagens": ["mirante_1", "mirante_2", "mirante_3"],
+    "fone": "48920008692",
+    "video": "https://www.youtube.com/embed/JnTkH97uAzw"
+  },{
+    "id": "6",
+    "nome": "Pousada Quinta do canquiri",
+    "bairro": "Canguiri",
+    "maps": "https://www.google.com/maps/place/Pousada+Quinta+do+Cangueri/@-28.2988859,-48.7521474,16z/data=!4m6!3m5!1s0x95214bcb788a65b5:0x1abd574df2616974!8m2!3d-28.2988859!4d-48.7521474!16s%2Fg%2F11xcs6cv90?entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+    "descricao": "Pousada natural no bairro do canguiri",
+    "funcionamento": {
+      "seg": "Fechado",
+      "ter": "24H",
+      "qua": "24H",
+      "qui": "24H",
+      "sex": "24H",
+      "sab": "24H",
+      "dom": "24H"
+    },
+    "imagens": ["canguiri_1", "canguiri_2", "canguiri_3"],
+    "fone": "48920008692",
+    "video": "https://www.youtube.com/embed/JnTkH97uAzw"
+  },{
+    "id": "7",
+    "nome": "Caixa d'Água",
+    "bairro": "Vila Nova",
+    "maps": "https://www.google.com/maps/place/Caixa+d'Água/@-28.2421436,-48.6935205,14.51z/data=!4m6!3m5!1s0x9526b57bf8c71a2b:0xe5977ae8f843bb06!8m2!3d-28.2427199!4d-48.6843829!16s%2Fg%2F11g8yb88wn?entry=ttu&g_ep=EgoyMDI2MDQwNS4wIKXMDSoASAFQAw%3D%3D",
+    "descricao": "Antigo reservatorio de agua da cidade de Imbituba, após anos de uso foi desativado e hoje é utilizado como um lago pelos moradores da região",
+    "funcionamento": {
+      "seg": "24H",
+      "ter": "24H",
+      "qua": "24H",
+      "qui": "24H",
+      "sex": "24H",
+      "sab": "24H",
+      "dom": "24H"
+    },
+    "imagens": ["caixa_1", "caixa_2", "caixa_3"],
+    "fone": "48920008692",
+    "video": "https://www.youtube.com/embed/FVRbWC_xhHc"
+  }
+ 
+  
+]
